@@ -18,7 +18,7 @@ This work studies confidence estimation in small language models,
 Comparing likelihood-based confidence signals with the same model
 self-verification under selective prediction settings.
 
-**Paper PDF:** [`paper.pdf`](./paper.pdf)
+**Paper PDF:** [`arXiv`](https://arxiv.org/abs/2605.02915)
 
 ## Repository Contents
 
